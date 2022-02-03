@@ -45,9 +45,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://silbioa480.github.io/TRELLO-CLONE",
   "devDependencies": {
     "@types/styled-components": "^5.1.21",
     "prettier": "^2.5.1"
-  }
+  },
+  "homepage": "https://silbioa480.github.io/TRELLO-CLONE"
 }
